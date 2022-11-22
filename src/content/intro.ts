@@ -1,0 +1,3 @@
+const intro = '';
+
+export { intro };

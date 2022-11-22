@@ -1,0 +1,18 @@
+{
+    "title": "Styles Analyze Report",
+    "url": "app.deriv.com",
+
+    "sections": {
+        "titles": {
+            "overview": "Overview",
+            "ruleset": "RuleSet",
+            "selector": "Selector",
+            "declaration": "Declaration",
+            "pv": "Properties and Values",
+            "mq": "Media Query",
+            "unit": "Unit",
+            "issue": "Issue",
+            "suggestion": "Suggestion"
+        }
+    }
+}
