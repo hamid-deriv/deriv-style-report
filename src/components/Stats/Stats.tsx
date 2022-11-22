@@ -1,6 +1,6 @@
 import React from 'react';
 import sortKeys from 'sort-keys';
-import LineGraph from 'react-line-graph';
+// import LineGraph from 'react-line-graph';
 import classNames from 'classnames';
 import { Box, ValueBox, Property, PropertyUnit } from '@/components/StatInfo';
 import { localize } from '@/components/Locale';
@@ -9,6 +9,7 @@ import { percent, sortValues, sepNumber } from '@/utils';
 import Alert from '@/components/Alert';
 import Markdown from '@/components/Markdown';
 import { complexity, specificity, id_selectors_issues, issues, suggestions } from '@/content';
+import Graph from '../../assets/sgraph.png';
 
 type TProps = {
     data: any;
@@ -17,15 +18,15 @@ type TProps = {
 
 const Stats = ({ data, stats }: TProps) => {
     const lineOfCode = 15021;
-    const specificityChart = {
-        data       : stats.stats.selectors.specificity.graph,
-        smoothing  : 0.7,
-        accent     : 'black',
-        fillBelow  : 'black',
-        hover      : false,
-        height     : '450px',
-        compression: 0
-    };
+    // const specificityChart = {
+    //     data       : stats.stats.selectors.specificity.graph,
+    //     smoothing  : 0.7,
+    //     accent     : 'black',
+    //     fillBelow  : 'black',
+    //     hover      : false,
+    //     height     : '450px',
+    //     compression: 0
+    // };
 
     return (
         <div className="container mx-auto my-10">
@@ -110,7 +111,8 @@ const Stats = ({ data, stats }: TProps) => {
                         <Box title="Average" value={(stats.stats.selectors.specificity.average).toFixed(0)} white />
                     </div>
                 </div>
-                <LineGraph {...specificityChart} />
+                {/* <LineGraph {...specificityChart} /> */}
+                <img src={Graph} alt="Specificity Graph" />
             </Container>
 
             {/* Declarations */}
