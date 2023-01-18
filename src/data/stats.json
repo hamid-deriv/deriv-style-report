@@ -1,11 +1,11 @@
 {
   "stats": {
-    "size": 391541,
-    "gzipSize": 58968,
-    "humanizedSize": "382KB",
-    "humanizedGzipSize": "58KB",
+    "size": 401772,
+    "gzipSize": 60319,
+    "humanizedSize": "392KB",
+    "humanizedGzipSize": "59KB",
     "rules": {
-      "total": 3871,
+      "total": 3981,
       "size": {
         "graph": [
           1,
@@ -1507,9 +1507,9 @@
           1,
           1,
           5,
-          2,
-          5,
           4,
+          4,
+          5,
           2,
           8,
           1,
@@ -1559,7 +1559,7 @@
           1,
           1,
           1,
-          10,
+          13,
           3,
           3,
           3,
@@ -2033,7 +2033,7 @@
           6,
           1,
           1,
-          6,
+          9,
           1,
           9,
           2,
@@ -2085,7 +2085,7 @@
           1,
           2,
           3,
-          1,
+          2,
           3,
           1,
           1,
@@ -2401,15 +2401,6 @@
           2,
           7,
           1,
-          3,
-          3,
-          1,
-          3,
-          2,
-          5,
-          1,
-          7,
-          1,
           1,
           1,
           1,
@@ -2442,12 +2433,6 @@
           9,
           3,
           6,
-          3,
-          4,
-          7,
-          4,
-          6,
-          1,
           1,
           1,
           5,
@@ -2480,6 +2465,7 @@
           2,
           3,
           4,
+          3,
           2,
           9,
           3,
@@ -2708,6 +2694,9 @@
           3,
           4,
           1,
+          3,
+          4,
+          5,
           1,
           8,
           5,
@@ -2733,6 +2722,7 @@
           4,
           12,
           3,
+          1,
           1,
           6,
           1,
@@ -2901,11 +2891,14 @@
           2,
           1,
           4,
+          3,
           10,
           2,
           2,
+          3,
           8,
           2,
+          1,
           1,
           3,
           1,
@@ -2932,6 +2925,8 @@
           2,
           2,
           9,
+          1,
+          1,
           3,
           4,
           3,
@@ -3001,6 +2996,13 @@
           1,
           1,
           3,
+          4,
+          3,
+          2,
+          3,
+          1,
+          1,
+          3,
           12,
           1,
           2,
@@ -3265,6 +3267,12 @@
           2,
           1,
           1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           6,
           1,
           5,
@@ -3333,6 +3341,49 @@
           1,
           3,
           5,
+          1,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          1,
+          3,
+          1,
+          4,
+          7,
+          1,
+          3,
+          1,
+          1,
+          3,
+          1,
+          1,
+          2,
+          2,
+          3,
+          1,
+          4,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          7,
+          7,
+          1,
+          8,
+          1,
+          2,
+          7,
+          1,
           1,
           1,
           1,
@@ -3452,14 +3503,20 @@
           1,
           4,
           6,
-          1,
           15,
           2,
           2,
+          1,
+          2,
+          1,
+          1,
+          1,
+          1,
           6,
           2,
           1,
           1,
+          3,
           4,
           1,
           2,
@@ -3502,7 +3559,16 @@
           1,
           2,
           4,
+          1,
+          1,
           2,
+          2,
+          1,
+          1,
+          1,
+          4,
+          2,
+          5,
           4,
           2,
           3,
@@ -3512,12 +3578,28 @@
           6,
           4,
           3,
+          1,
           5,
           3,
           5,
           1,
           1,
           1,
+          2,
+          4,
+          1,
+          1,
+          3,
+          2,
+          1,
+          3,
+          2,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
           2,
           2,
           1,
@@ -3566,9 +3648,10 @@
           5,
           1,
           1,
-          1,
-          3,
           4,
+          2,
+          1,
+          7,
           1,
           2,
           1,
@@ -3595,6 +3678,33 @@
           2,
           12,
           2,
+          1,
+          13,
+          1,
+          3,
+          1,
+          2,
+          3,
+          4,
+          4,
+          2,
+          1,
+          4,
+          1,
+          3,
+          4,
+          1,
+          1,
+          5,
+          5,
+          1,
+          1,
+          3,
+          4,
+          1,
+          1,
+          1,
+          1,
           1,
           2,
           4,
@@ -3881,7 +3991,7 @@
           3
         ],
         "max": 106,
-        "average": 2.603719969000258
+        "average": 2.590806330067822
       },
       "selectorByRuleSizes": [
         {
@@ -3933,7 +4043,7 @@
           "declarations": 16
         },
         {
-          "selector": ".landscape-blocker--visible",
+          "selector": ".landscape-blocker",
           "declarations": 15
         },
         {
@@ -3993,11 +4103,19 @@
           "declarations": 14
         },
         {
+          "selector": ".trading-hub-header",
+          "declarations": 13
+        },
+        {
           "selector": ".dashboard-header",
           "declarations": 13
         },
         {
           "selector": ".dashboard-platform-header",
+          "declarations": 13
+        },
+        {
+          "selector": ".dc-input__label",
           "declarations": 13
         },
         {
@@ -4241,10 +4359,6 @@
           "declarations": 10
         },
         {
-          "selector": ".dc-input__label",
-          "declarations": 10
-        },
-        {
           "selector": ".chart-line.horizontal .title-wrapper",
           "declarations": 10
         },
@@ -4389,6 +4503,10 @@
           "declarations": 9
         },
         {
+          "selector": ".dc-contract-card__wrapper",
+          "declarations": 9
+        },
+        {
           "selector": ".dc-contract-card",
           "declarations": 9
         },
@@ -4482,6 +4600,10 @@
         },
         {
           "selector": ".header__menu-link-text",
+          "declarations": 8
+        },
+        {
+          "selector": ".dc-mobile-dialog__risk-acceptance",
           "declarations": 8
         },
         {
@@ -4745,6 +4867,10 @@
           "declarations": 7
         },
         {
+          "selector": ".footer__link",
+          "declarations": 7
+        },
+        {
           "selector": ".category-wrapper,.type-wrapper",
           "declarations": 7
         },
@@ -4754,6 +4880,22 @@
         },
         {
           "selector": ".poi-form-on-signup__fields .proof-of-identity__image-container",
+          "declarations": 7
+        },
+        {
+          "selector": ".dc-mobile-dialog__test-warning .dc-modal-footer",
+          "declarations": 7
+        },
+        {
+          "selector": ".trading-assessment__btn-group",
+          "declarations": 7
+        },
+        {
+          "selector": ".trading-assessment__existing_btn",
+          "declarations": 7
+        },
+        {
+          "selector": ".trading-assessment__header--arrow-down",
           "declarations": 7
         },
         {
@@ -4841,15 +4983,7 @@
           "declarations": 7
         },
         {
-          "selector": ".dc-carousel__body",
-          "declarations": 7
-        },
-        {
           "selector": ".dc-hint-box",
-          "declarations": 7
-        },
-        {
-          "selector": ".dc-guide-tour__tooltip",
           "declarations": 7
         },
         {
@@ -5313,10 +5447,6 @@
           "declarations": 6
         },
         {
-          "selector": ".dc-carousel__circle",
-          "declarations": 6
-        },
-        {
           "selector": ".dc-linear-progress__countdown",
           "declarations": 6
         },
@@ -5390,10 +5520,6 @@
         },
         {
           "selector": ".dc-contract-card .potential-payout__label,.dc-contract-card .purchase-price__label",
-          "declarations": 6
-        },
-        {
-          "selector": ".dc-contract-card__wrapper",
           "declarations": 6
         },
         {
@@ -5729,6 +5855,14 @@
           "declarations": 5
         },
         {
+          "selector": ".trading-hub-header__redirect--cashierlink",
+          "declarations": 5
+        },
+        {
+          "selector": ".trading-hub-header__redirect--link",
+          "declarations": 5
+        },
+        {
           "selector": ".footer-icon-separator",
           "declarations": 5
         },
@@ -5754,6 +5888,10 @@
         },
         {
           "selector": ".header__menu-left",
+          "declarations": 5
+        },
+        {
+          "selector": ".header__redirect--dtratder--link",
           "declarations": 5
         },
         {
@@ -5909,6 +6047,10 @@
           "declarations": 5
         },
         {
+          "selector": ".progress-bar-circle",
+          "declarations": 5
+        },
+        {
           "selector": ".dc-popup__body .dc-tabs__item--popup",
           "declarations": 5
         },
@@ -5942,10 +6084,6 @@
         },
         {
           "selector": ".dc-label--large",
-          "declarations": 5
-        },
-        {
-          "selector": ".dc-guide-tour__tooltip__circle",
           "declarations": 5
         },
         {
@@ -6089,7 +6227,7 @@
           "declarations": 5
         },
         {
-          "selector": ".dc-field--error,.dc-field--warn",
+          "selector": ".dc-field--warn",
           "declarations": 5
         },
         {
@@ -6353,6 +6491,26 @@
           "declarations": 4
         },
         {
+          "selector": ".trading-hub-header__dtrader--redirect--link",
+          "declarations": 4
+        },
+        {
+          "selector": ".trading-hub-header__divider",
+          "declarations": 4
+        },
+        {
+          "selector": ".trading-hub-header__tradinghub",
+          "declarations": 4
+        },
+        {
+          "selector": ".trading-hub-header__menu-middle",
+          "declarations": 4
+        },
+        {
+          "selector": ".trading-hub-header__menu-right",
+          "declarations": 4
+        },
+        {
           "selector": ".footer-regulatory-information__icon",
           "declarations": 4
         },
@@ -6361,11 +6519,15 @@
           "declarations": 4
         },
         {
-          "selector": ".footer__link",
+          "selector": ".footer__links div",
           "declarations": 4
         },
         {
           "selector": ".dashboard-header--logged-in",
+          "declarations": 4
+        },
+        {
+          "selector": ".header__menu--back-to-ui,.header__menu--back-to-ui--dark",
           "declarations": 4
         },
         {
@@ -6378,6 +6540,10 @@
         },
         {
           "selector": ".header__menu-mobile-link",
+          "declarations": 4
+        },
+        {
+          "selector": ".header__menu__redirect--link",
           "declarations": 4
         },
         {
@@ -6430,6 +6596,14 @@
         },
         {
           "selector": ".accept-risk__form",
+          "declarations": 4
+        },
+        {
+          "selector": ".trading-assessment__wrapper__dropdown",
+          "declarations": 4
+        },
+        {
+          "selector": ".trading-assessment__header--background",
           "declarations": 4
         },
         {
@@ -6569,6 +6743,10 @@
           "declarations": 4
         },
         {
+          "selector": ".acc-info__preloader__dtrader,.acc-info__preloader__dtrader:before",
+          "declarations": 4
+        },
+        {
           "selector": ".acc-info__preloader,.acc-info__preloader:before",
           "declarations": 4
         },
@@ -6665,6 +6843,10 @@
           "declarations": 4
         },
         {
+          "selector": ".progress-bar-rectangle",
+          "declarations": 4
+        },
+        {
           "selector": ".dc-progress-bar__empty",
           "declarations": 4
         },
@@ -6754,14 +6936,6 @@
         },
         {
           "selector": ".dc-mobile-drawer__submenu-toggle",
-          "declarations": 4
-        },
-        {
-          "selector": ".dc-carousel__footer",
-          "declarations": 4
-        },
-        {
-          "selector": ".dc-carousel__row",
           "declarations": 4
         },
         {
@@ -6989,7 +7163,11 @@
           "declarations": 4
         },
         {
-          "selector": ".dc-field--warn",
+          "selector": ".dc-field--error,.dc-field--warn",
+          "declarations": 4
+        },
+        {
+          "selector": ".dc-field--error",
           "declarations": 4
         },
         {
@@ -7377,7 +7555,19 @@
           "declarations": 3
         },
         {
-          "selector": ".footer__link,.footer__links div",
+          "selector": ".trading-hub-header__dtrader--redirect",
+          "declarations": 3
+        },
+        {
+          "selector": ".trading-hub-header__tradinghub--onboarding",
+          "declarations": 3
+        },
+        {
+          "selector": ".trading-hub-header__mobile-parent",
+          "declarations": 3
+        },
+        {
+          "selector": ".trading-hub-header__menu-left",
           "declarations": 3
         },
         {
@@ -7402,6 +7592,14 @@
         },
         {
           "selector": ".header__menu-link-text:before",
+          "declarations": 3
+        },
+        {
+          "selector": ".header__menu--explore-trading-hub .dc-btn__text",
+          "declarations": 3
+        },
+        {
+          "selector": ".header__menu--trading-hub-container",
           "declarations": 3
         },
         {
@@ -7433,6 +7631,10 @@
           "declarations": 3
         },
         {
+          "selector": ".app-contents--is-onboarding",
+          "declarations": 3
+        },
+        {
           "selector": ".dashboard-platform-header__menu-left",
           "declarations": 3
         },
@@ -7458,6 +7660,22 @@
         },
         {
           "selector": ".poi-form-on-signup",
+          "declarations": 3
+        },
+        {
+          "selector": ".trading-assessment__wrapper__question .dc-radio-group",
+          "declarations": 3
+        },
+        {
+          "selector": ".trading-assessment__form--fields",
+          "declarations": 3
+        },
+        {
+          "selector": ".trading-assessment__form",
+          "declarations": 3
+        },
+        {
+          "selector": ".trading-assessment__header",
           "declarations": 3
         },
         {
@@ -7577,6 +7795,18 @@
           "declarations": 3
         },
         {
+          "selector": ".acc-info__preloader__dtrader",
+          "declarations": 3
+        },
+        {
+          "selector": ".acc-info__preloader__dtrader:before",
+          "declarations": 3
+        },
+        {
+          "selector": ".acc-info__preloader__dtrader",
+          "declarations": 3
+        },
+        {
           "selector": ".acc-info__preloader",
           "declarations": 3
         },
@@ -7638,6 +7868,14 @@
         },
         {
           "selector": ".dc-modal-header__title--modal-settings",
+          "declarations": 3
+        },
+        {
+          "selector": ".settings-language__language-flag",
+          "declarations": 3
+        },
+        {
+          "selector": ".settings-language__language-container",
           "declarations": 3
         },
         {
@@ -7709,7 +7947,11 @@
           "declarations": 3
         },
         {
-          "selector": ".dc-select-native__placeholder--has-value",
+          "selector": ".dc-select-native__placeholder--has-value,.dc-select-native__placeholder--hide-top-placeholder",
+          "declarations": 3
+        },
+        {
+          "selector": ".progress-bar",
           "declarations": 3
         },
         {
@@ -7845,6 +8087,10 @@
           "declarations": 3
         },
         {
+          "selector": ".dc-mobile-drawer__footer--servertime",
+          "declarations": 3
+        },
+        {
           "selector": ".dc-mobile-drawer__footer,.dc-mobile-drawer__item",
           "declarations": 3
         },
@@ -7881,10 +8127,6 @@
           "declarations": 3
         },
         {
-          "selector": ".dc-carousel",
-          "declarations": 3
-        },
-        {
           "selector": ".dc-linear-progress__bar",
           "declarations": 3
         },
@@ -7894,18 +8136,6 @@
         },
         {
           "selector": ".dc-horizontal-swipe--left",
-          "declarations": 3
-        },
-        {
-          "selector": ".dc-guide-tour__tooltip__footer",
-          "declarations": 3
-        },
-        {
-          "selector": ".dc-guide-tour__tooltip__buttons .dc-btn",
-          "declarations": 3
-        },
-        {
-          "selector": ".dc-guide-tour__tooltip__buttons",
           "declarations": 3
         },
         {
@@ -8961,6 +9191,14 @@
           "declarations": 2
         },
         {
+          "selector": ".trading-hub-header__logo",
+          "declarations": 2
+        },
+        {
+          "selector": ".trading-hub-header__menu-left-extensions",
+          "declarations": 2
+        },
+        {
           "selector": ".modal-root:not(:empty)",
           "declarations": 2
         },
@@ -8993,6 +9231,10 @@
           "declarations": 2
         },
         {
+          "selector": ".footer__links--dark-mode",
+          "declarations": 2
+        },
+        {
           "selector": ".footer--is-disabled:after",
           "declarations": 2
         },
@@ -9021,11 +9263,39 @@
           "declarations": 2
         },
         {
+          "selector": ".header__menu-mobile-right-arrow",
+          "declarations": 2
+        },
+        {
+          "selector": ".header__menu--back-to-ui-text--dark",
+          "declarations": 2
+        },
+        {
+          "selector": ".header__menu--exit-trading-hub",
+          "declarations": 2
+        },
+        {
+          "selector": ".header__menu--explore-trading-hub",
+          "declarations": 2
+        },
+        {
+          "selector": ".header__menu--back-to-old-ui--dtrader",
+          "declarations": 2
+        },
+        {
           "selector": ".header__menu-mobile-link--active .header__menu-mobile-link-text",
           "declarations": 2
         },
         {
-          "selector": ".header__menu-mobile-theme",
+          "selector": ".header__redirect--dtratder",
+          "declarations": 2
+        },
+        {
+          "selector": ".header__menu--dtrader--separator,.header__menu--separator",
+          "declarations": 2
+        },
+        {
+          "selector": ".header__menu--separator",
           "declarations": 2
         },
         {
@@ -9085,11 +9355,15 @@
           "declarations": 2
         },
         {
-          "selector": ".landscape-blocker--visible__message",
+          "selector": ".landscape-blocker__message--portrait",
           "declarations": 2
         },
         {
-          "selector": ".landscape-blocker--visible__icon",
+          "selector": ".landscape-blocker__message",
+          "declarations": 2
+        },
+        {
+          "selector": ".landscape-blocker__icon",
           "declarations": 2
         },
         {
@@ -9150,6 +9424,38 @@
         },
         {
           "selector": ".account-signup-loader",
+          "declarations": 2
+        },
+        {
+          "selector": ".dc-mobile-dialog__test-warning .dc-modal-body",
+          "declarations": 2
+        },
+        {
+          "selector": ".trading-assessment .dc-dropdown__display-placeholder--is-left-text.dc-dropdown__display-placeholder--is-title",
+          "declarations": 2
+        },
+        {
+          "selector": ".trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+          "declarations": 2
+        },
+        {
+          "selector": ".trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+          "declarations": 2
+        },
+        {
+          "selector": ".trading-assessment__side-note",
+          "declarations": 2
+        },
+        {
+          "selector": ".trading-assessment",
+          "declarations": 2
+        },
+        {
+          "selector": ".trading-assessment .dc-radio-group",
+          "declarations": 2
+        },
+        {
+          "selector": ".trading-assessment",
           "declarations": 2
         },
         {
@@ -9410,6 +9716,10 @@
         },
         {
           "selector": ".acc-info__id-icon",
+          "declarations": 2
+        },
+        {
+          "selector": ".acc-info__preloader__dtrader--no-currency:before",
           "declarations": 2
         },
         {
@@ -9877,10 +10187,6 @@
           "declarations": 2
         },
         {
-          "selector": ".dc-guide-tour__tooltip__progress",
-          "declarations": 2
-        },
-        {
           "selector": ".dc-form-cancel-button--absolute .dc-btn",
           "declarations": 2
         },
@@ -10130,6 +10436,10 @@
         },
         {
           "selector": ".dc-contract-card__indicative--movement:after",
+          "declarations": 2
+        },
+        {
+          "selector": ".dc-contract-card__sell-button--has-cancel-btn .dc-btn--cancel",
           "declarations": 2
         },
         {
@@ -10546,10 +10856,6 @@
         },
         {
           "selector": ".dc-input__footer .dc-field",
-          "declarations": 2
-        },
-        {
-          "selector": ".dc-field--error",
           "declarations": 2
         },
         {
@@ -12281,6 +12587,58 @@
           "declarations": 1
         },
         {
+          "selector": ".trading-hub-header__notification .notifications-toggle",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__setting--icon",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__setting",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__setting",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__dtrader--redirect--beta",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__redirect--beta",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__redirect--cashiertext",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__redirect",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__divider",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__tradinghub>*",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__logo",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header__menu-left",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-hub-header",
+          "declarations": 1
+        },
+        {
           "selector": ".modal-root--absolute",
           "declarations": 1
         },
@@ -12325,7 +12683,7 @@
           "declarations": 1
         },
         {
-          "selector": ".footer__links div",
+          "selector": ".footer__links--dark-mode:hover",
           "declarations": 1
         },
         {
@@ -12429,6 +12787,34 @@
           "declarations": 1
         },
         {
+          "selector": ".header__menu--back-to-ui-text",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu--exit-trading-hub-beta-icon",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu--trading-hub-beta-icon",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu--exit-trading-hub--dark",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu--explore-trading-hub--dark",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu--trading-hub",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu--back-to-ui--dark",
+          "declarations": 1
+        },
+        {
           "selector": ".header__menu-right .notifications-toggle",
           "declarations": 1
         },
@@ -12441,7 +12827,31 @@
           "declarations": 1
         },
         {
+          "selector": ".header__menu-divider",
+          "declarations": 1
+        },
+        {
           "selector": ".header__menu-mobile-link-flag-icon",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu__redirect",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu--dtrader--separator--account",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu--dtrader--separator",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu-mobile-theme,.header__menu-mobile-theme--trader-hub",
+          "declarations": 1
+        },
+        {
+          "selector": ".header__menu-mobile-theme",
           "declarations": 1
         },
         {
@@ -12530,6 +12940,22 @@
         },
         {
           "selector": ".landscape-blocker",
+          "declarations": 1
+        },
+        {
+          "selector": ".landscape-blocker",
+          "declarations": 1
+        },
+        {
+          "selector": ".landscape-blocker",
+          "declarations": 1
+        },
+        {
+          "selector": ".landscape-blocker__message--portrait",
+          "declarations": 1
+        },
+        {
+          "selector": ".landscape-blocker__message--landscape",
           "declarations": 1
         },
         {
@@ -12821,6 +13247,102 @@
           "declarations": 1
         },
         {
+          "selector": ".dc-mobile-dialog__test-warning .dc-modal-footer .dc-btn",
+          "declarations": 1
+        },
+        {
+          "selector": ".dc-mobile-dialog__test-warning",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__btn-group--btn",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment .dc-dropdown__display-placeholder .trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment .dc-dropdown__display-placeholder",
+          "declarations": 1
+        },
+        {
+          "selector": "to",
+          "declarations": 1
+        },
+        {
+          "selector": "50%",
+          "declarations": 1
+        },
+        {
+          "selector": "0%",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment .highlight",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment .disable-pointer",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__wrapper__question .dc-radio-group__circle",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__form .dc-themed-scrollbars",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__form--fields",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__form--layout",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__form--existing_user",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__header--content_position",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__header",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__side-note",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment__wrapper__dropdown--list--display",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment--existing-user .trading-assessment__header",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment--existing-user .trading-assessment__side-note",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment--existing-user",
+          "declarations": 1
+        },
+        {
+          "selector": ".trading-assessment--existing-user",
+          "declarations": 1
+        },
+        {
+          "selector": ".emp-status",
+          "declarations": 1
+        },
+        {
           "selector": ".account-form__title",
           "declarations": 1
         },
@@ -12950,6 +13472,30 @@
         },
         {
           "selector": ".dc-mobile-dialog__account-signup-mobile-dialog .account-wizard--error p",
+          "declarations": 1
+        },
+        {
+          "selector": ".dc-modal__container_verified_account .dc-modal-footer",
+          "declarations": 1
+        },
+        {
+          "selector": ".dc-modal__container_verified_account .dc-modal-body",
+          "declarations": 1
+        },
+        {
+          "selector": ".dc-modal__container_center-risk-modal .dc-modal-footer",
+          "declarations": 1
+        },
+        {
+          "selector": ".dc-modal__container_center-risk-modal .dc-modal-body .risk-acceptance__text,.dc-modal__container_center-risk-modal .dc-modal-body .verified-account__text",
+          "declarations": 1
+        },
+        {
+          "selector": ".dc-modal__container_center-risk-modal .dc-modal-body",
+          "declarations": 1
+        },
+        {
+          "selector": ".dc-modal__container_center-risk-modal .dc-modal-header",
           "declarations": 1
         },
         {
@@ -13421,6 +13967,14 @@
           "declarations": 1
         },
         {
+          "selector": ".acc-info__preloader__dtrader--is-crypto",
+          "declarations": 1
+        },
+        {
+          "selector": ".acc-info__preloader__dtrader:before",
+          "declarations": 1
+        },
+        {
           "selector": ".acc-info__preloader--is-crypto",
           "declarations": 1
         },
@@ -13561,6 +14115,14 @@
           "declarations": 1
         },
         {
+          "selector": ".notifications-dialog--pre-appstore",
+          "declarations": 1
+        },
+        {
+          "selector": ".notifications-dialog--pre-appstore",
+          "declarations": 1
+        },
+        {
           "selector": ".notifications-dialog__content",
           "declarations": 1
         },
@@ -13613,7 +14175,11 @@
           "declarations": 1
         },
         {
-          "selector": ".settings-language__language-header",
+          "selector": ".settings-language__language-name",
+          "declarations": 1
+        },
+        {
+          "selector": ".settings-language",
           "declarations": 1
         },
         {
@@ -13854,6 +14420,10 @@
         },
         {
           "selector": ".dc-select-native__placeholder--disabled",
+          "declarations": 1
+        },
+        {
+          "selector": ".dc-select-native__placeholder--hide-top-placeholder",
           "declarations": 1
         },
         {
@@ -14329,10 +14899,6 @@
           "declarations": 1
         },
         {
-          "selector": ".dc-carousel__circle--is-active",
-          "declarations": 1
-        },
-        {
           "selector": ".dc-label--general--info:after",
           "declarations": 1
         },
@@ -14418,18 +14984,6 @@
         },
         {
           "selector": ".dc-hint-box--info",
-          "declarations": 1
-        },
-        {
-          "selector": ".dc-guide-tour__tooltip__circle--active",
-          "declarations": 1
-        },
-        {
-          "selector": ".dc-guide-tour__tooltip__buttons--hidden",
-          "declarations": 1
-        },
-        {
-          "selector": ".dc-guide-tour__tooltip p",
           "declarations": 1
         },
         {
@@ -15002,10 +15556,6 @@
         },
         {
           "selector": ".dc-contract-card__sell-button .dc-btn--cancel,.dc-contract-card__sell-button .dc-btn--sell",
-          "declarations": 1
-        },
-        {
-          "selector": ".dc-contract-card__sell-button--has-cancel-btn .dc-btn--cancel",
           "declarations": 1
         },
         {
@@ -19371,12 +19921,12 @@
       ]
     },
     "selectors": {
-      "total": 4563,
-      "type": 638,
-      "class": 4440,
+      "total": 4675,
+      "type": 636,
+      "class": 4552,
       "id": 2,
-      "pseudoClass": 415,
-      "pseudoElement": 190,
+      "pseudoClass": 416,
+      "pseudoElement": 194,
       "values": [
         ":root",
         "#platform_name:after",
@@ -22176,15 +22726,6 @@
         ".dc-form-cancel-button--center .btn",
         ".dc-form-cancel-button--absolute",
         ".dc-form-cancel-button--absolute .dc-btn",
-        ".dc-guide-tour__tooltip",
-        ".dc-guide-tour__tooltip p",
-        ".dc-guide-tour__tooltip__buttons",
-        ".dc-guide-tour__tooltip__buttons .dc-btn",
-        ".dc-guide-tour__tooltip__buttons--hidden",
-        ".dc-guide-tour__tooltip__footer",
-        ".dc-guide-tour__tooltip__progress",
-        ".dc-guide-tour__tooltip__circle",
-        ".dc-guide-tour__tooltip__circle--active",
         ".dc-hint-box",
         ".dc-hint-box--info",
         ".dc-hint-box--warn",
@@ -22219,12 +22760,6 @@
         ".dc-linear-progress",
         ".dc-linear-progress__bar",
         ".dc-linear-progress__countdown",
-        ".dc-carousel",
-        ".dc-carousel__row",
-        ".dc-carousel__body",
-        ".dc-carousel__footer",
-        ".dc-carousel__circle",
-        ".dc-carousel__circle--is-active",
         ".dc-mobile-drawer__header-close .color1-fill",
         ".dc-mobile-drawer__header-close .color1-stroke",
         ".dc-mobile-drawer",
@@ -22260,6 +22795,7 @@
         ".dc-mobile-drawer__footer",
         ".dc-mobile-drawer__item",
         ".dc-mobile-drawer__footer",
+        ".dc-mobile-drawer__footer--servertime",
         ".dc-mobile-drawer__wrapper",
         ".dc-mobile-full-page-modal",
         ".dc-mobile-full-page-modal--flex",
@@ -22496,6 +23032,9 @@
         ".dc-progress-bar__bar",
         ".dc-progress-bar__empty",
         ".dc-progress-bar__label",
+        ".progress-bar",
+        ".progress-bar-rectangle",
+        ".progress-bar-circle",
         ".dc-progress-indicator",
         ".dc-progress-indicator__container",
         ".dc-progress-indicator__bar",
@@ -22522,6 +23061,8 @@
         ".dc-select-native__placeholder",
         ".dc-select-native__placeholder",
         ".dc-select-native__placeholder--has-value",
+        ".dc-select-native__placeholder--hide-top-placeholder",
+        ".dc-select-native__placeholder--hide-top-placeholder",
         ".dc-select-native__placeholder--disabled",
         ".dc-select-native__picker",
         ".dc-select-native--disabled .dc-select-native__display-text",
@@ -22720,13 +23261,16 @@
         ".theme-select-settings__option__icon:hover:not(.theme-select-settings__option__icon--active)",
         ".theme-select-settings__option__icon--active",
         ".theme-select-settings__option__icon--disabled",
-        ".settings-language__language-header",
+        ".settings-language",
+        ".settings-language__language-container",
         ".settings-language__language-container",
         ".settings-language__language-link",
         ".settings-language__language-link--active",
         ".settings-language__language-flag",
+        ".settings-language__language-flag",
         ".settings-language__language-name",
         ".settings-language__language-name--active",
+        ".settings-language__language-name",
         ".dc-modal-header--modal-settings",
         ".dc-modal-header__title--modal-settings",
         ".dc-modal__container_modal-settings .dc-modal-header",
@@ -22754,6 +23298,8 @@
         ".notifications-dialog--enter",
         ".notifications-dialog--exit",
         ".notifications-dialog",
+        ".notifications-dialog--pre-appstore",
+        ".notifications-dialog--pre-appstore",
         ".notifications-empty",
         ".notifications-empty__container",
         ".notifications-empty__icon",
@@ -22843,6 +23389,14 @@
         ".acc-info__preloader",
         ".acc-info__preloader:before",
         ".acc-info__preloader--is-crypto",
+        ".acc-info__preloader__dtrader",
+        ".acc-info__preloader__dtrader",
+        ".acc-info__preloader__dtrader:before",
+        ".acc-info__preloader__dtrader:before",
+        ".acc-info__preloader__dtrader--no-currency:before",
+        ".acc-info__preloader__dtrader",
+        ".acc-info__preloader__dtrader:before",
+        ".acc-info__preloader__dtrader--is-crypto",
         ".acc-info__container",
         ".acc-info__wrapper",
         ".acc-info__id",
@@ -23119,6 +23673,13 @@
         ".dc-modal__container--risk-message .dc-themed-scrollbars",
         ".dc-modal__container--risk-message .dc-modal-footer",
         ".dc-modal__container--risk-message",
+        ".dc-modal__container_center-risk-modal .dc-modal-header",
+        ".dc-modal__container_center-risk-modal .dc-modal-body",
+        ".dc-modal__container_center-risk-modal .dc-modal-body .risk-acceptance__text",
+        ".dc-modal__container_center-risk-modal .dc-modal-body .verified-account__text",
+        ".dc-modal__container_center-risk-modal .dc-modal-footer",
+        ".dc-modal__container_verified_account .dc-modal-body",
+        ".dc-modal__container_verified_account .dc-modal-footer",
         ".dc-mobile-dialog__account-signup-mobile-dialog .account-wizard--error p",
         ".dc-mobile-dialog__account-signup-mobile-dialog .account-wizard--error span.chat-inline",
         ".dc-modal-header--real-account-signup-modal",
@@ -23194,6 +23755,46 @@
         ".account-form__title",
         ".account-form__subtitle",
         ".account-form__description",
+        ".emp-status",
+        ".trading-assessment",
+        ".trading-assessment .dc-radio-group",
+        ".trading-assessment",
+        ".trading-assessment--existing-user",
+        ".trading-assessment--existing-user",
+        ".trading-assessment--existing-user .trading-assessment__side-note",
+        ".trading-assessment--existing-user .trading-assessment__header",
+        ".trading-assessment__wrapper__dropdown--list--display",
+        ".trading-assessment__side-note",
+        ".trading-assessment__side-note",
+        ".trading-assessment__header",
+        ".trading-assessment__header",
+        ".trading-assessment__header--background",
+        ".trading-assessment__header--arrow-down",
+        ".trading-assessment__header--content_position",
+        ".trading-assessment__form",
+        ".trading-assessment__form--existing_user",
+        ".trading-assessment__form--layout",
+        ".trading-assessment__form--fields",
+        ".trading-assessment__form--fields",
+        ".trading-assessment__form .dc-themed-scrollbars",
+        ".trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+        ".trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+        ".trading-assessment__wrapper__question .dc-radio-group",
+        ".trading-assessment__wrapper__question .dc-radio-group__circle",
+        ".trading-assessment__wrapper__dropdown",
+        ".trading-assessment .disable-pointer",
+        ".trading-assessment .highlight",
+        ".trading-assessment .dc-dropdown__display-placeholder",
+        ".trading-assessment .dc-dropdown__display-placeholder .trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+        ".trading-assessment .dc-dropdown__display-placeholder--is-left-text.dc-dropdown__display-placeholder--is-title",
+        ".trading-assessment__existing_btn",
+        ".trading-assessment__btn-group",
+        ".trading-assessment__btn-group--btn",
+        ".dc-mobile-dialog__risk-acceptance",
+        ".dc-mobile-dialog__test-warning",
+        ".dc-mobile-dialog__test-warning .dc-modal-body",
+        ".dc-mobile-dialog__test-warning .dc-modal-footer",
+        ".dc-mobile-dialog__test-warning .dc-modal-footer .dc-btn",
         ".modal__container.modal__real-account-signup-modal .dc-vertical-tab__content",
         ".accept-risk__header",
         ".accept-risk__container",
@@ -23494,13 +24095,19 @@
         ".popup-root>.dc-toast",
         ".popup-root .dc-toast-popup",
         ".landscape-blocker",
-        ".landscape-blocker--visible",
-        ".landscape-blocker--visible__icon",
-        ".landscape-blocker--visible__message",
+        ".landscape-blocker__icon",
+        ".landscape-blocker__message",
+        ".landscape-blocker__message--landscape",
+        ".landscape-blocker__message--portrait",
+        ".landscape-blocker__message--portrait",
+        ".landscape-blocker",
+        ".landscape-blocker",
+        ".landscape-blocker",
         ".app-contents",
         ".app-contents--is-disabled:after",
         ".app-contents--is-route-modal",
         ".app-contents--is-hidden",
+        ".app-contents--is-onboarding",
         ".app-contents",
         ".app-contents--is-scrollable",
         ".app-contents--is-dashboard",
@@ -23544,6 +24151,17 @@
         ".header__menu-mobile-body-wrapper",
         ".header__menu-mobile-platform-switcher",
         ".header__menu-mobile-theme",
+        ".header__menu-mobile-theme",
+        ".header__menu-mobile-theme--trader-hub",
+        ".header__menu--separator",
+        ".header__menu--dtrader--separator",
+        ".header__menu--separator",
+        ".header__menu--dtrader--separator",
+        ".header__menu--dtrader--separator--account",
+        ".header__menu__redirect",
+        ".header__menu__redirect--link",
+        ".header__redirect--dtratder",
+        ".header__redirect--dtratder--link",
         ".header__menu-mobile-link",
         ".header__menu-mobile-link--active .header__menu-mobile-link-text",
         ".header__menu-mobile-link-text",
@@ -23553,12 +24171,29 @@
         ".header__menu-items",
         ".header__navbar-icons",
         ".header__navbar-icons--notify-toggle",
+        ".header__menu-divider",
         ".header__menu-left",
         ".header__menu-left-extensions",
         ".header__menu-right",
         ".header__menu-right--hidden",
         ".header__menu-right .acc-info__separator",
         ".header__menu-right .notifications-toggle",
+        ".header__menu--back-to-old-ui--dtrader",
+        ".header__menu--back-to-ui",
+        ".header__menu--back-to-ui--dark",
+        ".header__menu--back-to-ui--dark",
+        ".header__menu--trading-hub",
+        ".header__menu--trading-hub-container",
+        ".header__menu--explore-trading-hub",
+        ".header__menu--explore-trading-hub--dark",
+        ".header__menu--explore-trading-hub .dc-btn__text",
+        ".header__menu--exit-trading-hub",
+        ".header__menu--exit-trading-hub--dark",
+        ".header__menu--trading-hub-beta-icon",
+        ".header__menu--exit-trading-hub-beta-icon",
+        ".header__menu--back-to-ui-text",
+        ".header__menu--back-to-ui-text--dark",
+        ".header__menu-mobile-right-arrow",
         ".header__menu-toggle",
         ".header__menu-links",
         ".header__menu-links",
@@ -23609,8 +24244,8 @@
         ".footer__links--left",
         ".footer__links--left:hover",
         ".footer__links div",
-        ".footer__link",
-        ".footer__links div",
+        ".footer__links--dark-mode",
+        ".footer__links--dark-mode:hover",
         ".footer__link",
         ".footer__link:hover",
         ".footer__icon",
@@ -23639,6 +24274,33 @@
         ".modal-root",
         ".modal-root:not(:empty)",
         ".modal-root--absolute",
+        ".trading-hub-header",
+        ".trading-hub-header",
+        ".trading-hub-header__menu-left",
+        ".trading-hub-header__menu-left",
+        ".trading-hub-header__menu-left-extensions",
+        ".trading-hub-header__mobile-parent",
+        ".trading-hub-header__menu-right",
+        ".trading-hub-header__menu-middle",
+        ".trading-hub-header__logo",
+        ".trading-hub-header__logo",
+        ".trading-hub-header__tradinghub",
+        ".trading-hub-header__tradinghub>*",
+        ".trading-hub-header__tradinghub--onboarding",
+        ".trading-hub-header__divider",
+        ".trading-hub-header__divider",
+        ".trading-hub-header__redirect",
+        ".trading-hub-header__redirect--link",
+        ".trading-hub-header__redirect--cashierlink",
+        ".trading-hub-header__redirect--cashiertext",
+        ".trading-hub-header__redirect--beta",
+        ".trading-hub-header__dtrader--redirect",
+        ".trading-hub-header__dtrader--redirect--link",
+        ".trading-hub-header__dtrader--redirect--beta",
+        ".trading-hub-header__setting",
+        ".trading-hub-header__setting",
+        ".trading-hub-header__setting--icon",
+        ".trading-hub-header__notification .notifications-toggle",
         ".account-settings-toggle svg",
         ".error-box",
         ".error-box",
@@ -23944,7 +24606,7 @@
       ],
       "specificity": {
         "max": 110,
-        "average": 19.41858426473811,
+        "average": 19.26609625668449,
         "graph": [
           10,
           101,
@@ -26745,15 +27407,6 @@
           10,
           20,
           10,
-          11,
-          10,
-          20,
-          10,
-          10,
-          10,
-          10,
-          10,
-          10,
           10,
           10,
           10,
@@ -26783,12 +27436,6 @@
           10,
           10,
           11,
-          10,
-          10,
-          10,
-          10,
-          10,
-          10,
           10,
           10,
           10,
@@ -26821,6 +27468,7 @@
           10,
           20,
           20,
+          10,
           10,
           10,
           10,
@@ -27071,18 +27719,23 @@
           10,
           10,
           10,
-          20,
-          10,
-          10,
-          10,
-          10,
-          10,
           10,
           10,
           10,
           20,
           10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
           20,
+          10,
+          20,
+          10,
+          10,
           10,
           10,
           10,
@@ -27297,6 +27950,9 @@
           10,
           10,
           10,
+          10,
+          10,
+          10,
           20,
           20,
           40,
@@ -27311,6 +27967,8 @@
           20,
           10,
           20,
+          10,
+          10,
           10,
           10,
           10,
@@ -27402,6 +28060,14 @@
           30,
           30,
           30,
+          10,
+          10,
+          10,
+          11,
+          11,
+          11,
+          10,
+          11,
           10,
           10,
           10,
@@ -27687,6 +28353,13 @@
           20,
           20,
           10,
+          20,
+          20,
+          30,
+          30,
+          20,
+          20,
+          20,
           21,
           31,
           10,
@@ -27762,6 +28435,46 @@
           10,
           10,
           10,
+          10,
+          10,
+          20,
+          10,
+          10,
+          10,
+          20,
+          20,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          20,
+          30,
+          30,
+          20,
+          20,
+          10,
+          20,
+          20,
+          20,
+          50,
+          30,
+          10,
+          10,
+          10,
+          10,
+          10,
+          20,
+          20,
+          30,
           30,
           10,
           10,
@@ -28066,7 +28779,13 @@
           10,
           10,
           10,
+          10,
+          10,
+          10,
+          10,
+          10,
           11,
+          10,
           10,
           10,
           10,
@@ -28113,7 +28832,6 @@
           10,
           10,
           10,
-          20,
           10,
           10,
           10,
@@ -28126,7 +28844,36 @@
           10,
           10,
           20,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
           20,
+          20,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          20,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
           10,
           10,
           10,
@@ -28178,7 +28925,7 @@
           20,
           11,
           10,
-          11,
+          20,
           10,
           20,
           10,
@@ -28207,6 +28954,33 @@
           10,
           20,
           10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          20,
           11,
           10,
           10,
@@ -28518,6 +29292,8 @@
         ".acc-info__button",
         ".acc-info__preloader",
         ".acc-info__preloader:before",
+        ".acc-info__preloader__dtrader",
+        ".acc-info__preloader__dtrader:before",
         ".acc-switcher__wrapper",
         ".accept-risk__container",
         ".account-form__header-section:after",
@@ -28702,6 +29478,7 @@
         ".dc-result__caption",
         ".dc-select-native__display-text",
         ".dc-select-native__placeholder",
+        ".dc-select-native__placeholder--hide-top-placeholder",
         ".dc-table--scrollbar",
         ".dc-table__head",
         ".dc-tabs__item__icon",
@@ -28745,13 +29522,17 @@
         ".footer-icon-separator",
         ".footer-regulatory-information p",
         ".footer-regulatory-information__link",
-        ".footer__link",
-        ".footer__links div",
         ".header",
+        ".header__menu--back-to-ui--dark",
+        ".header__menu--dtrader--separator",
+        ".header__menu--separator",
         ".header__menu-links",
+        ".header__menu-mobile-theme",
         ".ic-otc>span",
         ".initial-loader--fullscreen",
         ".input",
+        ".landscape-blocker",
+        ".landscape-blocker__message--portrait",
         ".login-prompt",
         ".mSticky",
         ".media__description",
@@ -28766,6 +29547,7 @@
         ".notification-promo",
         ".notification-promo__btn",
         ".notifications-dialog",
+        ".notifications-dialog--pre-appstore",
         ".notifications-dialog__content",
         ".notifications-dialog__header",
         ".notifications-item",
@@ -28807,6 +29589,9 @@
         ".set-currency-modal .currency-selector",
         ".set-currency-modal .currency-selector .dc-form-submit-button",
         ".set-currency-modal .currency-selector .dc-modal-footer",
+        ".settings-language__language-container",
+        ".settings-language__language-flag",
+        ".settings-language__language-name",
         ".smartcharts .smartcharts-mobile",
         ".smartcharts-dark .sc-loader .sc-loader-spin",
         ".smartcharts-dark .smartcharts input::-moz-placeholder",
@@ -28843,6 +29628,17 @@
         ".terms-of-use",
         ".terms-of-use__hr",
         ".toast-messages",
+        ".trading-assessment",
+        ".trading-assessment--existing-user",
+        ".trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+        ".trading-assessment__form--fields",
+        ".trading-assessment__header",
+        ".trading-assessment__side-note",
+        ".trading-hub-header",
+        ".trading-hub-header__divider",
+        ".trading-hub-header__logo",
+        ".trading-hub-header__menu-left",
+        ".trading-hub-header__setting",
         ".unlink-password__fieldset",
         ".welcome-column",
         ".welcome-column--left",
@@ -28885,9 +29681,9 @@
       ]
     },
     "declarations": {
-      "total": 10079,
-      "unique": 2555,
-      "uniqueToTotalRatio": 0.25349737077090984,
+      "total": 10314,
+      "unique": 2595,
+      "uniqueToTotalRatio": 0.2515997673065736,
       "properties": {
         "font-size": [
           "62.5%",
@@ -29067,8 +29863,6 @@
           "1.4rem",
           "1.2rem",
           "20px",
-          "1.4rem",
-          "1.2rem",
           "1rem",
           "14px",
           "16px",
@@ -29100,6 +29894,7 @@
           "2rem",
           "1.4rem",
           "14px",
+          "1.4rem",
           "1.4rem",
           "1.2rem",
           "1.6rem",
@@ -29221,6 +30016,7 @@
           "\"\"",
           "\"\"",
           "\"\"",
+          "\"\"",
           "none",
           "attr(title)",
           "\"\"",
@@ -29294,7 +30090,6 @@
           "4px",
           "0",
           "0",
-          ".5rem",
           "auto",
           "auto",
           "2.4rem",
@@ -29324,18 +30119,25 @@
           "-5px",
           "auto",
           "2.4rem",
+          "1.6rem",
           "0",
           ".8rem",
           "8px",
           "8px",
           "auto",
+          "50rem",
           "auto",
+          "20rem",
           "8px",
           "2rem",
           "1.8rem",
           "1.8rem",
           "4.8rem",
           "1.2rem",
+          "1rem",
+          ".7rem",
+          ".8rem",
+          "2.2rem",
           "auto",
           "4px",
           "0",
@@ -29473,9 +30275,6 @@
           "transparent",
           "#ffffff",
           "var(--general-section-2)",
-          "#ffffff",
-          "#f2f3f4",
-          "#ff444f",
           "var(--transparent-info)",
           "var(--status-warning-transparent)",
           "var(--transparent-danger)",
@@ -29490,7 +30289,6 @@
           "var(--status-warning)",
           "var(--status-info)",
           "#ff444f",
-          "#333333",
           "var(--general-main-2)",
           "var(--overlay-outside-dialog)",
           "#ffffff",
@@ -29511,6 +30309,8 @@
           "var(--status-danger)",
           "var(--status-warning)",
           "var(--status-success)",
+          "#ff444f",
+          "#c2c2c2",
           "var(--status-success)",
           "#f2f3f4",
           "var(--fill-normal)",
@@ -29563,6 +30363,7 @@
           "#ff444f",
           "var(--status-warning-transparent)",
           "#ffffff",
+          "var(--general-active)",
           "transparent",
           "initial",
           "#ffffff",
@@ -29571,6 +30372,9 @@
           "#f2f3f4",
           "var(--general-hover)",
           "#ffffff",
+          "#ffffff",
+          "#ffffff",
+          "#ffffff",
           "var(--general-hover)",
           "#85acb0",
           "#85acb0",
@@ -29579,6 +30383,7 @@
           "#0e0e0e",
           "#ffffff",
           "var(--overlay-outside-dialog)",
+          "#ffffff",
           "var(--general-disabled)",
           "#ffffff",
           "#ffffff",
@@ -29666,8 +30471,10 @@
           "1px solid #f2f3f4",
           "1px solid #f2f3f4",
           "1px solid #f2f3f4",
+          "1px solid #f2f3f4",
           "1px solid var(--general-section-2)",
           "1px solid var(--general-section-2)",
+          "1px solid #f2f3f4",
           "1px solid #f2f3f4",
           "1px solid var(--border-disabled)"
         ],
@@ -30002,16 +30809,9 @@
           "flex",
           "flex",
           "flex",
-          "flex",
-          "none",
-          "flex",
-          "flex",
           "inline-flex",
           "flex",
           "flex",
-          "flex",
-          "flex",
-          "grid",
           "flex",
           "flex",
           "flex",
@@ -30077,10 +30877,12 @@
           "flex",
           "flex",
           "flex",
+          "flex",
           "none",
           "flex",
           "flex",
           "block",
+          "none",
           "flex",
           "grid",
           "grid",
@@ -30115,6 +30917,7 @@
           "flex",
           "flex",
           "flex",
+          "flex",
           "grid",
           "flex",
           "flex",
@@ -30129,6 +30932,7 @@
           "inline-flex",
           "flex",
           "flex",
+          "none",
           "none",
           "flex",
           "flex",
@@ -30176,6 +30980,16 @@
           "flex",
           "flex",
           "flex",
+          "flex",
+          "flex",
+          "grid",
+          "flex",
+          "grid",
+          "flex",
+          "flex",
+          "flex",
+          "flex",
+          "flex",
           "grid",
           "flex",
           "inline",
@@ -30195,15 +31009,23 @@
           "flex",
           "flex",
           "flex",
+          "flex",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "flex",
+          "flex",
+          "none",
           "none",
           "flex",
           "none",
           "flex",
           "flex",
-          "none",
-          "none",
           "flex",
-          "none",
+          "flex",
           "flex",
           "flex",
           "inline-flex",
@@ -30211,6 +31033,10 @@
           "inline-flex",
           "none",
           "none",
+          "flex",
+          "flex",
+          "flex",
+          "inline-flex",
           "flex",
           "none",
           "inline-flex",
@@ -30226,11 +31052,24 @@
           "flex",
           "flex",
           "inline-flex",
+          "inline-flex",
           "none",
           "inline-flex",
           "flex",
           "flex",
           "none",
+          "flex",
+          "flex",
+          "inline-flex",
+          "flex",
+          "flex",
+          "inline-flex",
+          "flex",
+          "flex",
+          "flex",
+          "flex",
+          "flex",
+          "flex",
           "flex",
           "flex",
           "flex",
@@ -30418,9 +31257,6 @@
           "1",
           "0",
           ".16",
-          "1",
-          ".5",
-          "1",
           "0",
           "1",
           ".32",
@@ -30641,13 +31477,10 @@
           "4px",
           "4px",
           "50%",
-          ".5rem",
-          "50%",
           "4px",
           "12px",
           "12px",
           "20px",
-          "50%",
           "8px",
           "0",
           "2.4rem",
@@ -30656,6 +31489,8 @@
           "10rem",
           "16px 16px 0 0",
           "1.2rem",
+          "1rem",
+          "50%",
           "4px",
           "50%",
           "4px",
@@ -30699,6 +31534,9 @@
           "4px",
           "4px",
           "4px",
+          "1rem",
+          "1rem",
+          "1rem",
           "10px",
           "50%",
           "4px",
@@ -30771,6 +31609,7 @@
           "border-box",
           "border-box",
           "content-box",
+          "border-box",
           "border-box",
           "border-box",
           "border-box",
@@ -31112,13 +31951,11 @@
           "40px",
           "100%",
           "40px",
-          ".8rem",
           "24px",
           "100%",
           "28px",
           "4px",
           "100%",
-          "8px",
           "50px",
           "40px",
           "inherit",
@@ -31167,6 +32004,8 @@
           "2.4rem",
           "100%",
           "100%",
+          ".8rem",
+          ".8rem",
           ".4rem",
           "100%",
           "100%",
@@ -31210,7 +32049,8 @@
           "100%",
           "207px",
           "178px",
-          "24px",
+          "4rem",
+          "4rem",
           "26px",
           "525px",
           "calc(100% - 37px)",
@@ -31225,8 +32065,10 @@
           "100%",
           "100%",
           "100%",
-          "46px",
-          "42px",
+          "4rem",
+          "4rem",
+          "4rem",
+          "4rem",
           "100%",
           "3.2rem",
           "2.8rem",
@@ -31269,17 +32111,21 @@
           "auto",
           "auto",
           "100%",
-          "128px",
+          "12.8rem",
           "0",
           "100%",
           "auto",
-          "calc(100% - 57px)",
+          "calc(100% - 5.7rem)",
           "100%",
           "4rem",
           "auto",
           "100%",
           "1.6rem",
           "100%",
+          "calc(100vh - 16rem)",
+          "calc(100vh - 12rem)",
+          "4rem",
+          "0",
           "calc(100% - 57px)",
           "100%",
           "100%",
@@ -31302,6 +32148,7 @@
           "100%",
           "64px",
           "calc(100vh - 84px)",
+          "inherit",
           "calc(100% - 40px)",
           "calc(100% - 48px)",
           "100%",
@@ -31312,6 +32159,7 @@
           "48px",
           "calc(100% - 4rem)",
           "100%",
+          "3.2rem",
           "16px",
           "16px",
           "100%",
@@ -31340,6 +32188,13 @@
           ".2em",
           "1.6rem",
           "100vh",
+          "48px",
+          "4rem",
+          "47px",
+          "3.8rem",
+          "3rem",
+          "3rem",
+          "2.4rem",
           "20px",
           "100vh",
           "calc(100vh - 84px)",
@@ -31481,6 +32336,8 @@
           "1.43",
           "1.25",
           "1.25",
+          "1",
+          "1.25",
           "1.43",
           "1.5",
           "1.5",
@@ -31529,7 +32386,6 @@
           "1.43",
           "1.5",
           "20px",
-          "1.4",
           "1.4rem",
           "20px",
           "24px",
@@ -31582,11 +32438,12 @@
           "1.25",
           "1.5",
           "1.5",
-          "20px",
+          "2rem",
           "1.5",
           "1.5",
           "1.4",
           "1.5",
+          "1.6rem",
           "1",
           "1.4",
           "1.75",
@@ -31697,7 +32554,6 @@
           "center",
           "left",
           "center",
-          "left",
           "center",
           "left",
           "left",
@@ -31725,6 +32581,8 @@
           "center",
           "center",
           "left",
+          "center",
+          "center",
           "center",
           "center",
           "center",
@@ -31744,6 +32602,8 @@
           "left",
           "center",
           "justify",
+          "justify",
+          "center",
           "center",
           "left",
           "center",
@@ -31851,7 +32711,6 @@
           "width .3s ease",
           ".5s ease-in-out",
           "width .5s cubic-bezier(.62,.01,.51,.95)",
-          "all .3s ease",
           "transform .25s cubic-bezier(.25,.1,.1,.25)",
           "transform .25s cubic-bezier(.25,.1,.1,.25),opacity .25s cubic-bezier(.25,.1,.1,.25)",
           "transform .25s cubic-bezier(.25,.1,.1,.25),opacity .25s cubic-bezier(.25,.1,.1,.25)",
@@ -31883,6 +32742,7 @@
           "transform .2s ease",
           "opacity .3s",
           "background-color .3s",
+          "opacity .3s",
           "opacity .3s",
           "opacity .3s",
           "top .3s ease-in-out",
@@ -32192,6 +33052,8 @@
           "100%",
           "100%",
           "100%",
+          "-moz-min-content",
+          "min-content",
           "calc(100% + 2px)",
           "100%",
           "100%",
@@ -32255,14 +33117,9 @@
           "100%",
           "100%",
           "100%",
-          "36rem",
-          ".8rem",
           "100vw",
           "100%",
           "100%",
-          "-moz-fit-content",
-          "fit-content",
-          "8px",
           "100%",
           "100%",
           "40px",
@@ -32317,9 +33174,10 @@
           "100%",
           "12rem",
           "100%",
+          "2.5rem",
+          ".8rem",
           "100%",
           "100%",
-          "16px",
           "100%",
           "40px",
           "40px",
@@ -32363,7 +33221,8 @@
           "100%",
           "234px",
           "234px",
-          "36px",
+          "5rem",
+          "5rem",
           "100%",
           "26px",
           "264px",
@@ -32382,10 +33241,15 @@
           "146px",
           "162px",
           "100%",
-          "350px",
-          "90px",
-          "140px",
-          "216px",
+          "30rem",
+          "9rem",
+          "9rem",
+          "14rem",
+          "100%",
+          "30rem",
+          "9rem",
+          "9rem",
+          "14rem",
           "100%",
           "2rem",
           "100%",
@@ -32448,17 +33312,28 @@
           "100%",
           "100%",
           "100%",
-          "128px",
+          "12.8rem",
           "80%",
-          "300px",
-          "440px",
-          "300px",
+          "30rem",
+          "44rem",
+          "30rem",
           "100%",
           "100%",
           "100%",
           "90%",
           "78%",
           "100%",
+          "100%",
+          "100%",
+          "100%",
+          "100%",
+          "100%",
+          "0",
+          "100%",
+          "90%",
+          "100%",
+          "100%",
+          "90%",
           "100%",
           "100%",
           "100%",
@@ -32492,10 +33367,16 @@
           "calc(100% + 16px)",
           "2.4em",
           "100%",
+          "2rem",
           "16px",
           "16px",
           "100%",
           "2em",
+          "110%",
+          "90%",
+          "25.5rem",
+          "100%",
+          "90%",
           "50px",
           "16px",
           "100%",
@@ -32506,6 +33387,10 @@
           "100%",
           "1px",
           "100vw",
+          "100%",
+          "8rem",
+          "6rem",
+          ".1rem",
           "20px",
           "100%",
           "6.4em",
@@ -32908,10 +33793,8 @@
           "0",
           "0 .8rem",
           "0",
-          "auto 0",
           "0 2px",
           "0 2px",
-          ".5rem",
           "1.2rem 1.6rem 1.2rem auto",
           ".8rem",
           "0 .8rem",
@@ -32926,6 +33809,7 @@
           "auto",
           "auto",
           "2.1rem 2.1rem 0 0",
+          "0 .4rem",
           "3.2rem auto 0",
           "2.4rem auto 0",
           "0 auto",
@@ -33013,9 +33897,12 @@
           "0",
           "auto",
           "48px 0 36px",
+          "0",
           ".8rem",
           "0 .8rem",
           "8px 0 -9px -8px",
+          "0 4rem 0 1rem",
+          "0 7rem 0 1rem",
           ".2em 0 .2em -.2em",
           ".2em 1.6em",
           "0 .1rem",
@@ -33393,6 +34280,7 @@
           "relative",
           "absolute",
           "absolute",
+          "absolute",
           "relative",
           "relative",
           "absolute",
@@ -33424,6 +34312,11 @@
           "relative",
           "relative",
           "relative",
+          "fixed",
+          "absolute",
+          "fixed",
+          "relative",
+          "relative",
           "relative",
           "relative",
           "absolute",
@@ -33450,8 +34343,10 @@
           "relative",
           "relative",
           "relative",
+          "relative",
           "absolute",
           "absolute",
+          "fixed",
           "fixed",
           "relative",
           "relative",
@@ -33638,6 +34533,9 @@
           "translate3d(0,-20px,0)",
           "none",
           "scale(1)",
+          "scale(2)",
+          "scale(1)",
+          "scale(1)",
           "translate3d(calc(100% + 1.6em),0,0)",
           "rotate(180deg)",
           "scale(1.3)",
@@ -33674,6 +34572,7 @@
           "5.6rem",
           "6.4rem",
           "3.2rem",
+          "218px",
           "10rem",
           "25%",
           "calc(100% - 1rem)",
@@ -33689,6 +34588,7 @@
           "440px",
           "14rem",
           "256px",
+          "16px",
           "28%",
           "256px",
           "25.6rem",
@@ -33888,16 +34788,21 @@
           "1rem",
           "calc(-50% - 10rem)",
           "auto",
+          "calc(-50% - 18rem)",
+          "calc(3% - 1rem)",
           "-3.2rem",
           "-26px",
           "-1.8rem",
           "0",
           "0",
-          "-90px",
-          "-140px",
+          "-9rem",
+          "-9rem",
+          "-9rem",
+          "-9rem",
           "0",
           "auto",
           "4.8rem",
+          "49%",
           "5%",
           "0",
           "1.6rem",
@@ -33905,6 +34810,7 @@
           "0",
           "1.2em",
           "auto",
+          "0",
           "0",
           "0",
           ".8rem",
@@ -34092,7 +34998,9 @@
           "0",
           "0",
           "0",
-          "-3px",
+          "-.3rem",
+          "0",
+          "-.3rem",
           "0",
           "calc(100% + 4px)",
           "auto",
@@ -34112,8 +35020,9 @@
           "0",
           "0",
           "0",
-          "24px",
+          "2.4rem",
           "1.4em",
+          "0",
           "0",
           "0",
           "0",
@@ -34350,8 +35259,6 @@
           "0 1.6rem 1rem",
           "1.6rem",
           "1.6rem",
-          "2.4rem",
-          ".8rem 0 0",
           "8px",
           "2px 8px",
           "4px 8px 4px 4px",
@@ -34454,6 +35361,16 @@
           "0 1.6rem .8rem",
           "1.6rem 1.6rem 0",
           "1.5rem",
+          "2.2rem 1.6rem",
+          "0 7rem",
+          "0 1.6rem",
+          "0 7rem",
+          "0 1.6rem",
+          "0 7rem",
+          "0 1.6rem",
+          "1rem 2rem",
+          "1.6rem",
+          "1.6rem",
           "0",
           "2.4rem 0",
           "0 2.4rem",
@@ -34465,11 +35382,16 @@
           "0",
           "0",
           "1.6rem 11rem",
+          "0",
           ".3rem .9rem",
           ".4rem",
           "8px 0",
+          ".5rem",
+          ".5rem",
           ".8em 1.6em",
           ".5em 1em",
+          "0 1.5rem 2.5rem",
+          "1.5rem",
           "0 1.6em",
           ".5em 0",
           "0 1.2rem",
@@ -34478,10 +35400,18 @@
           "0 4rem",
           "0 1.6rem",
           "0 1em",
+          ".8rem",
           "0 .8em",
           "0 1em",
           "0 1em 0 0",
           "2rem",
+          "2rem",
+          ".5rem",
+          "2rem",
+          ".7rem",
+          "0 .7rem",
+          ".5rem",
+          "0 .5rem",
           "20px 16px",
           "2.8rem 0",
           "2.4rem 0",
@@ -34544,6 +35474,8 @@
           "2rem",
           ".8rem",
           ".8rem",
+          "2rem",
+          "1.6rem",
           "0",
           "1.6rem",
           ".8rem",
@@ -34668,15 +35600,12 @@
           "center",
           "flex-start",
           "center",
-          "flex-end",
+          "center",
+          "flex-start",
           "space-between",
           "center",
           "flex-start",
-          "flex-start",
           "center",
-          "space-between",
-          "center",
-          "flex-start",
           "flex-end",
           "space-between",
           "flex-end",
@@ -34699,7 +35628,7 @@
           "center",
           "center",
           "center",
-          "flex-start",
+          "center",
           "flex-start",
           "flex-end",
           "space-between",
@@ -34747,7 +35676,14 @@
           "center",
           "center",
           "center",
+          "center",
+          "center",
           "flex-start",
+          "space-between",
+          "center",
+          "center",
+          "end",
+          "center",
           "normal",
           "normal",
           "normal",
@@ -34760,12 +35696,19 @@
           "center",
           "flex-start",
           "flex-end",
+          "space-between",
+          "space-between",
+          "space-between",
           "space-evenly",
           "space-between",
           "flex-end",
           "flex-end",
           "space-evenly",
           "center",
+          "center",
+          "space-between",
+          "flex-end",
+          "space-between",
           "center",
           "center",
           "flex-start",
@@ -34894,8 +35837,26 @@
           "center",
           "center",
           "center",
-          "center",
           "flex-start",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
           "center",
           "start",
           "center",
@@ -34904,27 +35865,6 @@
           "center",
           "center",
           "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "start",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
-          "center",
           "flex-start",
           "flex-start",
           "center",
@@ -34970,6 +35910,9 @@
           "center",
           "center",
           "center",
+          "center",
+          "center",
+          "flex-start",
           "center",
           "center",
           "center",
@@ -34991,12 +35934,28 @@
           "center",
           "center",
           "center",
+          "flex-start",
+          "flex-start",
+          "flex-end",
+          "center",
+          "center",
+          "center",
+          "center",
           "center",
           "center",
           "center",
           "center",
           "center",
           "flex-start",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
+          "center",
           "center",
           "center",
           "flex-start",
@@ -35060,7 +36019,6 @@
           "4px",
           "4px",
           "auto",
-          ".8rem",
           "8px",
           "16px",
           "16px",
@@ -35090,12 +36048,16 @@
           "8px",
           "auto",
           "auto",
+          "1.6rem",
           "0",
           "1rem",
           "1.2rem",
           "12px",
           "0",
           "24px",
+          "1rem",
+          "1rem",
+          "5rem",
           "16px",
           "16px",
           "auto",
@@ -35105,6 +36067,12 @@
           ".8rem",
           "auto",
           "1em",
+          "0",
+          ".3rem",
+          "1rem",
+          "1rem",
+          "1rem",
+          "2.2rem",
           "0",
           "1.6em",
           "1.6rem",
@@ -35418,6 +36386,7 @@
           "var(--border-disabled)",
           "var(--state-hover)",
           "#ffffff",
+          "#ffffff",
           "var(--state-hover)",
           "transparent",
           "var(--general-main-2)",
@@ -35428,6 +36397,8 @@
           "var(--general-main-2)",
           "var(--state-hover)",
           "var(--state-active)",
+          "#ffffff",
+          "#ffffff",
           "#fff",
           "#0e0e0e",
           "var(--general-section-2)",
@@ -35436,6 +36407,7 @@
           "#f2f3f4",
           "#ffffff",
           "var(--general-hover)",
+          "var(--general-hover)",
           "#f2f3f4",
           "var(--text-profit-success)",
           "var(--text-loss-danger)",
@@ -35443,6 +36415,7 @@
           "var(--state-hover)",
           "#333333",
           "#f2f3f4",
+          "var(--general-section-2)",
           "none"
         ],
         "border": [
@@ -35702,14 +36675,15 @@
           "pointer",
           "pointer",
           "pointer",
-          "not-allowed",
-          "pointer",
-          "pointer",
-          "default",
-          "pointer",
           "pointer",
           "not-allowed",
           "pointer",
+          "pointer",
+          "default",
+          "pointer",
+          "pointer",
+          "not-allowed",
+          "pointer",
           "default",
           "pointer",
           "default",
@@ -35718,6 +36692,11 @@
           "pointer",
           "pointer",
           "pointer",
+          "pointer",
+          "pointer",
+          "pointer",
+          "pointer",
+          "not-allowed",
           "pointer",
           "pointer",
           "pointer",
@@ -35809,6 +36788,7 @@
           "column",
           "column",
           "row",
+          "row",
           "column",
           "column",
           "column",
@@ -35835,6 +36815,10 @@
           "column",
           "column",
           "row",
+          "column",
+          "column",
+          "column",
+          "column",
           "column",
           "column",
           "column",
@@ -36056,7 +37040,6 @@
           "700",
           "700",
           "400",
-          "700",
           "700",
           "700",
           "700",
@@ -36710,6 +37693,7 @@
           "var(--text-general)",
           "#333333",
           "var(--text-general)",
+          "#333333",
           "var(--text-general)",
           "#333333",
           "#333333",
@@ -36990,7 +37974,6 @@
           "0",
           "5rem",
           "16px",
-          "16px",
           "8px",
           "4px",
           "2px",
@@ -37077,7 +38060,6 @@
           "auto",
           "overlay",
           "hidden",
-          "scroll",
           "hidden",
           "hidden",
           "hidden",
@@ -37261,6 +38243,7 @@
           "7",
           "-1",
           "2",
+          "2",
           "1",
           "1",
           "99",
@@ -37278,6 +38261,7 @@
           "3",
           "9998",
           "9999",
+          "99",
           "1000",
           "10",
           "12",
@@ -37331,11 +38315,11 @@
           "hidden",
           "hidden",
           "hidden",
-          "auto",
-          "hidden",
           "hidden",
           "auto",
           "hidden",
+          "hidden",
+          "auto",
           "hidden",
           "hidden",
           "hidden",
@@ -37352,6 +38336,8 @@
           "hidden",
           "hidden",
           "auto",
+          "auto",
+          "hidden",
           "hidden",
           "hidden",
           "hidden",
@@ -37411,8 +38397,6 @@
           "0",
           "-3em",
           "20px",
-          "1.5rem",
-          "1rem",
           "auto",
           "auto",
           "-2rem",
@@ -37433,6 +38417,7 @@
           "0",
           "0",
           "9px",
+          "1rem",
           ".8rem",
           ".8rem",
           "4px",
@@ -37451,6 +38436,7 @@
           "3rem",
           "2rem",
           "2.4rem",
+          "2.4rem",
           ".8rem",
           "2.4rem",
           "0",
@@ -37464,11 +38450,19 @@
           ".3rem",
           "1.6rem",
           ".2rem",
+          "9.2rem",
+          "0",
           "2.4rem",
+          "2.2rem",
+          "9.4rem",
+          "1.6rem",
+          "2.4rem",
+          "2rem",
           "0",
           "40px",
           "48px",
           "0",
+          ".8rem",
           ".8rem",
           "4rem",
           "1rem",
@@ -37518,6 +38512,7 @@
           "2px solid var(--general-disabled)",
           "2px solid var(--general-disabled)",
           "1px solid var(--general-section-2)",
+          "1px solid var(--general-section-2)",
           "2px solid #f2f3f4",
           "1px solid var(--general-section-2)",
           "2px solid #f2f3f4",
@@ -37530,6 +38525,10 @@
           "none",
           "2px solid #f2f3f4",
           "1px solid #f2f3f4",
+          "16px solid var(--general-active)",
+          "2px solid var(--general-disabled)",
+          "2px solid var(--general-disabled)",
+          "2px solid var(--general-disabled)",
           "1px solid #f2f3f4",
           "none"
         ],
@@ -37600,6 +38599,9 @@
           "2rem",
           "0",
           "3.5rem",
+          "0",
+          "0",
+          "0",
           "0",
           "0",
           "0",
@@ -37708,6 +38710,7 @@
           "1",
           "1",
           "1",
+          "1",
           "1"
         ],
         "padding-bottom": [
@@ -37724,6 +38727,7 @@
           "1.2rem",
           "16px",
           ".8rem",
+          ".5rem",
           "1.2rem",
           "1.6rem",
           "1.6rem"
@@ -37785,6 +38789,7 @@
           "1px solid #ff444f",
           "initial",
           "4px solid #ff444f",
+          "8px solid transparent",
           "2px solid #ffffff"
         ],
         "border-left-color": [
@@ -37871,6 +38876,7 @@
           "4.4rem",
           "4.8rem",
           "1.3rem",
+          "1.6rem",
           "1.6rem",
           "8px",
           "16px",
@@ -37983,7 +38989,7 @@
           "100%",
           "3.2rem",
           "10rem",
-          "10px",
+          "1rem",
           "56px",
           "1.2rem",
           "1.6rem",
@@ -38003,15 +39009,17 @@
           "320px",
           "220px",
           "124px",
+          "calc(100% - 1.4rem)",
           "31.7rem",
           "400px",
           "80%",
           "280px",
           "218px",
-          "218px",
+          "238px",
           "18rem",
           "90px",
           "calc(100% - 2.4rem)",
+          "10.5rem",
           "560px",
           "calc(440px - 4.8rem)",
           "36.4rem",
@@ -38047,8 +39055,9 @@
           "calc(100% - 1.6rem)",
           "96px",
           "3.6rem",
-          "478px",
-          "96px",
+          "47.8rem",
+          "9.6rem",
+          "none",
           "none",
           "1440px",
           "calc(100vw - 1.6rem)",
@@ -38072,6 +39081,7 @@
           "328px"
         ],
         "text-overflow": [
+          "ellipsis",
           "ellipsis",
           "ellipsis",
           "ellipsis",
@@ -38115,6 +39125,8 @@
           "inherit",
           "nowrap",
           "nowrap",
+          "normal",
+          "normal",
           "nowrap",
           "nowrap",
           "inherit"
@@ -38179,6 +39191,7 @@
           "0",
           "0",
           "0",
+          "0",
           "auto",
           "0",
           "-25px",
@@ -38233,9 +39246,9 @@
           "99%",
           "none",
           "400px",
-          "calc(100vh - 102px)",
+          "calc(100vh - 10.2rem)",
           "none",
-          "300px",
+          "30rem",
           "none",
           "calc(100% - 5rem)",
           "100vh",
@@ -38471,6 +39484,8 @@
           "6px solid #323738",
           "1px solid var(--border-disabled)",
           "1px solid #f2f3f4",
+          "8px solid transparent",
+          "1px solid #f2f3f4",
           "1px solid #f2f3f4",
           "1px solid #f2f3f4",
           "1px solid #151717",
@@ -38532,6 +39547,7 @@
           "toast_blinking .4s infinite alternate",
           "rotate 2s linear infinite",
           "dash 1.5s ease-in-out infinite,colorRed 6s ease-in-out infinite",
+          "bounce 2s ease infinite",
           "blinking-network-status .4s infinite alternate"
         ],
         "visibility": [
@@ -38774,6 +39790,11 @@
           "none",
           "none",
           "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
           "none"
         ],
         "touch-action": [
@@ -38796,7 +39817,9 @@
           ".4rem 0",
           ".3rem",
           ".8rem",
-          "16px",
+          "1.6rem",
+          ".3rem",
+          "1.6rem",
           "8px"
         ],
         "grid-auto-rows": [
@@ -38808,7 +39831,7 @@
           "repeat(7,2.4rem)",
           "repeat(3,minmax(7.2rem,1fr))",
           "1fr 1fr",
-          "1.5fr 1fr",
+          "1.2fr 1fr",
           "1fr 1fr 25%",
           "1fr 1fr",
           "1fr 1fr",
@@ -38817,12 +39840,12 @@
           "1fr 1fr 1fr",
           "1fr 1fr",
           "1fr 1fr",
-          "2rem 22.7rem 2rem",
           "repeat(4,1fr)",
           "min-content min-content min-content minmax(48px,1fr)",
           "min-content 1fr 1fr min-content",
           "3.2rem auto",
           "repeat(4,minmax(90px,1fr))",
+          "repeat(2,minmax(100%,1fr))",
           "auto auto",
           "1fr 1fr",
           "auto 1fr"
@@ -38851,6 +39874,7 @@
           "center",
           "center",
           "baseline",
+          "flex-start",
           "center",
           "center",
           "center",
@@ -38862,7 +39886,6 @@
           "flex-end"
         ],
         "justify-self": [
-          "center",
           "center",
           "center",
           "end",
@@ -38892,15 +39915,19 @@
           "1fr 1fr 1fr",
           "5.2rem auto",
           "repeat(5,auto)",
+          "auto",
           "13rem minmax(10rem,1fr)",
           "0",
           "5rem minmax(10rem,1fr)",
-          "1fr 70px",
+          "1fr 7rem",
           "1fr 1fr",
           "auto",
           "1fr 1fr",
           "minmax(20rem,1fr)",
           "minmax(10rem,1fr)",
+          "4.7fr 1fr",
+          "5.8fr 1fr",
+          "35rem 1fr",
           "minmax(10rem,1fr) 8.2rem",
           "auto auto"
         ],
@@ -38982,9 +40009,6 @@
           "optimizeLegibility",
           "optimizeLegibility"
         ],
-        "scroll-behavior": [
-          "smooth"
-        ],
         "grid-row": [
           "2/2",
           "3/3",
@@ -39012,9 +40036,11 @@
           "hidden",
           "hidden",
           "hidden",
+          "hidden",
           "hidden"
         ],
         "backface-visibility": [
+          "hidden",
           "hidden",
           "hidden",
           "hidden",
@@ -39060,6 +40086,14 @@
           "normal",
           "normal",
           "normal"
+        ],
+        "gap": [
+          "1.6rem",
+          "2.4rem",
+          ".8rem"
+        ],
+        "row-gap": [
+          "2.4rem"
         ],
         "-o-object-fit": [
           "initial",
@@ -39507,9 +40541,6 @@
         "text-decoration-line": [
           "none"
         ],
-        "gap": [
-          ".8rem"
-        ],
         "-webkit-clip-path": [
           "polygon(0 0,100% 0,100% 100%,50% 100%)",
           "polygon(0 0,100% 0,100% 100%,63% 100%)",
@@ -39529,20 +40560,20 @@
       },
       "resets": {
         "margin-left": 10,
-        "margin": 39,
-        "padding": 44,
+        "margin": 40,
+        "padding": 45,
         "padding-right": 7,
-        "margin-right": 8,
+        "margin-right": 9,
         "margin-bottom": 13,
-        "margin-top": 10,
+        "margin-top": 11,
         "padding-bottom": 1,
         "padding-left": 6,
         "padding-top": 8
       }
     },
     "mediaQueries": {
-      "total": 229,
-      "unique": 25,
+      "total": 258,
+      "unique": 29,
       "values": [
         "(max-width:767px) and (min-width:320px)",
         "(min-width:768px)",
@@ -39552,6 +40583,7 @@
         "not all and (-webkit-min-device-pixel-ratio:0),not all and (min-resolution:0.001dpcm)",
         "(min-width:1024px)",
         "(min-width:320px) and (max-width:767px)",
+        "(min-width:1024px)",
         "(min-width:320px) and (max-width:767px)",
         "(min-width:1024px)",
         "(min-width:320px) and (max-width:767px)",
@@ -39634,6 +40666,12 @@
         "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
         "(min-width:1024px)",
         "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
@@ -39699,6 +40737,17 @@
         "screen and (max-height:568px)",
         "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:1024px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
         "(min-width:768px) and (max-width:904px)",
         "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
@@ -39712,6 +40761,11 @@
         "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
+        "screen and (orientation:portrait)",
+        "screen and (orientation:landscape)",
+        "(min-width:1024px)",
+        "screen and (min-width:768px) and (max-width:1023px) and (orientation:portrait)",
+        "screen and (min-width:320px) and (max-width:767px) and (max-aspect-ratio:13/9)",
         "(min-width:320px) and (max-width:767px)",
         "(max-width:768px)",
         "(min-width:769px)",
@@ -39726,6 +40780,12 @@
         "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
         "(max-width:768px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
+        "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
         "(min-width:320px) and (max-width:767px)",
         "(min-width:1024px)",
@@ -40292,6 +41352,55 @@
             "properties": {
               "height": [
                 "calc(100vh - 40px)"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:1024px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".dc-button-menu__button:hover:not(.dc-button-menu__button--active)",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 1,
+            "pseudoElement": 0,
+            "values": [
+              ".dc-button-menu__button:hover:not(.dc-button-menu__button--active)"
+            ],
+            "specificity": {
+              "max": 30,
+              "average": 30,
+              "graph": [
+                30
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "background-color": [
+                "var(--state-hover)"
               ]
             },
             "resets": {}
@@ -44429,6 +45538,214 @@
             },
             "selectorByRuleSizes": [
               {
+                "selector": ".settings-language",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".settings-language"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "display": [
+                "flex"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                3
+              ],
+              "max": 3,
+              "average": 3
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".settings-language__language-container",
+                "declarations": 3
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".settings-language__language-container"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 3,
+            "unique": 3,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "grid-gap": [
+                ".3rem"
+              ],
+              "grid-template-columns": [
+                "repeat(2,minmax(100%,1fr))"
+              ],
+              "grid-template-rows": [
+                "auto"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                3
+              ],
+              "max": 3,
+              "average": 3
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".settings-language__language-flag",
+                "declarations": 3
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".settings-language__language-flag"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 3,
+            "unique": 3,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "height": [
+                "4rem"
+              ],
+              "margin-top": [
+                "1rem"
+              ],
+              "width": [
+                "5rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".settings-language__language-name",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".settings-language__language-name"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "font-size": [
+                "1.4rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
                 "selector": ".notifications-dialog__header",
                 "declarations": 1
               }
@@ -44582,6 +45899,55 @@
               ],
               "width": [
                 "100%"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".notifications-dialog--pre-appstore",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".notifications-dialog--pre-appstore"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "left": [
+                "calc(3% - 1rem)"
               ]
             },
             "resets": {}
@@ -44972,13 +46338,86 @@
             "uniqueToTotalRatio": 1,
             "properties": {
               "height": [
-                "42px"
+                "4rem"
               ],
               "top": [
-                "-3px"
+                "-.3rem"
               ],
               "width": [
-                "216px",
+                "14rem",
+                "100%"
+              ],
+              "display": [
+                "none"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 3,
+            "size": {
+              "graph": [
+                3,
+                1,
+                1
+              ],
+              "max": 3,
+              "average": 1.6666666666666667
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".acc-info__preloader__dtrader",
+                "declarations": 3
+              },
+              {
+                "selector": ",.acc-info__preloader__dtrader--is-crypto",
+                "declarations": 1
+              },
+              {
+                "selector": ",.acc-info__preloader__dtrader:before",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 3,
+            "type": 0,
+            "class": 3,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 1,
+            "values": [
+              ".acc-info__preloader__dtrader",
+              ".acc-info__preloader__dtrader:before",
+              ".acc-info__preloader__dtrader--is-crypto"
+            ],
+            "specificity": {
+              "max": 11,
+              "average": 10.333333333333334,
+              "graph": [
+                10,
+                11,
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 5,
+            "unique": 5,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "height": [
+                "4rem"
+              ],
+              "top": [
+                "-.3rem"
+              ],
+              "width": [
+                "14rem",
                 "100%"
               ],
               "display": [
@@ -47782,7 +49221,7 @@
             "uniqueToTotalRatio": 1,
             "properties": {
               "max-height": [
-                "calc(100vh - 102px)"
+                "calc(100vh - 10.2rem)"
               ]
             },
             "resets": {}
@@ -47831,7 +49270,7 @@
             "uniqueToTotalRatio": 1,
             "properties": {
               "width": [
-                "300px"
+                "30rem"
               ]
             },
             "resets": {}
@@ -47968,7 +49407,7 @@
             "properties": {
               "grid-template-rows": [
                 "5rem minmax(10rem,1fr)",
-                "1fr 70px"
+                "1fr 7rem"
               ],
               "overflow": [
                 "hidden"
@@ -48351,7 +49790,7 @@
                 "2px solid #f2f3f4"
               ],
               "padding-top": [
-                "10px"
+                "1rem"
               ],
               "margin": [
                 "0 auto"
@@ -48609,7 +50048,7 @@
                 "auto"
               ],
               "max-width": [
-                "96px"
+                "9.6rem"
               ],
               "width": [
                 "100%",
@@ -48790,6 +50229,620 @@
             "properties": {
               "border-top-color": [
                 "var(--general-disabled)"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".emp-status",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".emp-status"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "padding-right": [
+                "2rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                2
+              ],
+              "max": 2,
+              "average": 2
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-assessment",
+                "declarations": 2
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 2,
+            "unique": 2,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "height": [
+                "calc(100vh - 16rem)"
+              ],
+              "overflow": [
+                "auto"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:1024px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-assessment--existing-user",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment--existing-user"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "margin-top": [
+                "9.2rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 3,
+            "size": {
+              "graph": [
+                1,
+                1,
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ",.trading-assessment--existing-user .trading-assessment__header",
+                "declarations": 1
+              },
+              {
+                "selector": ",.trading-assessment--existing-user .trading-assessment__side-note",
+                "declarations": 1
+              },
+              {
+                "selector": ".trading-assessment--existing-user",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 3,
+            "type": 0,
+            "class": 3,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment--existing-user",
+              ".trading-assessment--existing-user .trading-assessment__side-note",
+              ".trading-assessment--existing-user .trading-assessment__header"
+            ],
+            "specificity": {
+              "max": 20,
+              "average": 16.666666666666668,
+              "graph": [
+                10,
+                20,
+                20
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 3,
+            "unique": 3,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "height": [
+                "calc(100vh - 12rem)"
+              ],
+              "padding": [
+                "2.2rem 1.6rem"
+              ],
+              "margin-top": [
+                "0"
+              ]
+            },
+            "resets": {
+              "margin-top": 1
+            }
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-assessment__side-note",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment__side-note"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "padding": [
+                "0 1.6rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-assessment__header",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment__header"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "padding": [
+                "0 1.6rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-assessment__form--fields",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment__form--fields"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "padding": [
+                "0 1.6rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                2
+              ],
+              "max": 2,
+              "average": 2
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+                "declarations": 2
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit"
+            ],
+            "specificity": {
+              "max": 30,
+              "average": 30,
+              "graph": [
+                30
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 2,
+            "unique": 2,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "white-space": [
+                "normal"
+              ],
+              "width": [
+                "90%"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-assessment__wrapper__question .dc-radio-group__circle",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment__wrapper__question .dc-radio-group__circle"
+            ],
+            "specificity": {
+              "max": 20,
+              "average": 20,
+              "graph": [
+                20
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "align-self": [
+                "flex-start"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 3,
+            "size": {
+              "graph": [
+                1,
+                1,
+                2
+              ],
+              "max": 2,
+              "average": 1.3333333333333333
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ",.trading-assessment .dc-dropdown__display-placeholder--is-left-text.dc-dropdown__display-placeholder--is-title",
+                "declarations": 2
+              },
+              {
+                "selector": ",.trading-assessment .dc-dropdown__display-placeholder .trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+                "declarations": 1
+              },
+              {
+                "selector": ".trading-assessment .dc-dropdown__display-placeholder",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 3,
+            "type": 0,
+            "class": 3,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment .dc-dropdown__display-placeholder",
+              ".trading-assessment .dc-dropdown__display-placeholder .trading-assessment__form .dc-dropdown__display .dc-dropdown__display-placeholder-text-limit-fit",
+              ".trading-assessment .dc-dropdown__display-placeholder--is-left-text.dc-dropdown__display-placeholder--is-title"
+            ],
+            "specificity": {
+              "max": 50,
+              "average": 33.333333333333336,
+              "graph": [
+                20,
+                50,
+                30
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 4,
+            "unique": 4,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "width": [
+                "100%",
+                "90%"
+              ],
+              "line-height": [
+                "1.6rem"
+              ],
+              "white-space": [
+                "normal"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 2,
+            "size": {
+              "graph": [
+                7,
+                1
+              ],
+              "max": 7,
+              "average": 4
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-assessment__btn-group",
+                "declarations": 7
+              },
+              {
+                "selector": ",.trading-assessment__btn-group--btn",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 2,
+            "type": 0,
+            "class": 2,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-assessment__btn-group",
+              ".trading-assessment__btn-group--btn"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10,
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 8,
+            "unique": 7,
+            "uniqueToTotalRatio": 0.875,
+            "properties": {
+              "background": [
+                "#ffffff"
+              ],
+              "border-top": [
+                "2px solid var(--general-disabled)"
+              ],
+              "bottom": [
+                "0"
+              ],
+              "display": [
+                "flex"
+              ],
+              "padding": [
+                "1.6rem"
+              ],
+              "position": [
+                "absolute"
+              ],
+              "width": [
+                "100%",
+                "100%"
               ]
             },
             "resets": {}
@@ -49631,6 +51684,251 @@
             "resets": {
               "margin": 1
             }
+          }
+        },
+        {
+          "value": "screen and (orientation:portrait)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".landscape-blocker__message--landscape",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".landscape-blocker__message--landscape"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "display": [
+                "none"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "screen and (orientation:landscape)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".landscape-blocker__message--portrait",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".landscape-blocker__message--portrait"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "display": [
+                "none"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:1024px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".landscape-blocker",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".landscape-blocker"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "display": [
+                "none"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "screen and (min-width:768px) and (max-width:1023px) and (orientation:portrait)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".landscape-blocker",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".landscape-blocker"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "display": [
+                "none"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "screen and (min-width:320px) and (max-width:767px) and (max-aspect-ratio:13/9)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".landscape-blocker",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".landscape-blocker"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "display": [
+                "none"
+              ]
+            },
+            "resets": {}
           }
         },
         {
@@ -50500,6 +52798,302 @@
               ]
             },
             "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-hub-header",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-hub-header"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "height": [
+                "4rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-hub-header__menu-left",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-hub-header__menu-left"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "height": [
+                "3.8rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-hub-header__logo",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-hub-header__logo"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "margin-left": [
+                ".7rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-hub-header__divider",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-hub-header__divider"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "height": [
+                "2.4rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-hub-header__setting",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-hub-header__setting"
+            ],
+            "specificity": {
+              "max": 10,
+              "average": 10,
+              "graph": [
+                10
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "margin-left": [
+                "2.2rem"
+              ]
+            },
+            "resets": {}
+          }
+        },
+        {
+          "value": "(min-width:320px) and (max-width:767px)",
+          "rules": {
+            "total": 1,
+            "size": {
+              "graph": [
+                1
+              ],
+              "max": 1,
+              "average": 1
+            },
+            "selectorByRuleSizes": [
+              {
+                "selector": ".trading-hub-header__notification .notifications-toggle",
+                "declarations": 1
+              }
+            ]
+          },
+          "selectors": {
+            "total": 1,
+            "type": 0,
+            "class": 1,
+            "id": 0,
+            "pseudoClass": 0,
+            "pseudoElement": 0,
+            "values": [
+              ".trading-hub-header__notification .notifications-toggle"
+            ],
+            "specificity": {
+              "max": 20,
+              "average": 20,
+              "graph": [
+                20
+              ]
+            },
+            "repeated": []
+          },
+          "declarations": {
+            "total": 1,
+            "unique": 1,
+            "uniqueToTotalRatio": 1,
+            "properties": {
+              "margin-right": [
+                "0"
+              ]
+            },
+            "resets": {
+              "margin-right": 1
+            }
           }
         },
         {
