@@ -24,11 +24,11 @@ const ValueBox = ({ name, value, total, className, white}: TProps) => {
                 <span className={classNames('flex-1 border-r bg-gray-300 border-zinc-300 rounded-l-md text-sm p-1', { 'text-white': white })}>{name}</span>
                 <span className={classNames('flex-1 text-sm p-1', { 'text-white': white })}>{value}</span>
             </div>
-            <div className="bg-gray-200 flex flex-auto items-center justify-start self-stretch rounded-md">
+            <div className="bg-gray-100 flex flex-auto items-center justify-start self-stretch rounded-md">
                 <span className={classNames('text-sm py-1 px-2 rounded-l-md w-20 text-center', { 'bg-black text-white': calculatePercentage().above_one, 'bg-zinc-500 text-gray-200': !calculatePercentage().above_one })}>
                     {calculatePercentage().value}
                 </span>
-                <div className="bg-zinc-400 h-full" style={{ width: calculatePercentage().value }}></div>
+                <div className="bg-gray-300" style={{ width: calculatePercentage().value, height: '100%' }}></div>
             </div>
         </div>
     );

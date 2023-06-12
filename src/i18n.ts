@@ -4,14 +4,12 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 
 // Trans Files
 import CoreEN from './locales/en/core.json';
-import ButtonsEN from './locales/en/buttons.json';
 
 const resources = {
     ns   : ['buttons', 'core'],
     trans: {
         en: {
-            core   : CoreEN,
-            buttons: ButtonsEN,
+            core: CoreEN,
         }
     }
 };

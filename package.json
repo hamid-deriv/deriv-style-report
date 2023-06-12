@@ -1,7 +1,7 @@
 {
-  "name": "vite-react-starter-kit",
+  "name": "deriv-style-report",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "build": "./dist",
   "type": "module",
   "scripts": {
@@ -10,11 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^14.4.3",
     "classnames": "^2.3.2",
-    "daisyui": "^2.41.0",
     "i18next": "^22.0.5",
     "i18next-browser-languagedetector": "^7.0.1",
     "react": "^18.2.0",
@@ -31,7 +27,6 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.8",
-    "@types/jest": "^29.2.3",
     "@types/lodash.uniq": "^4.5.7",
     "@types/node": "^18.11.9",
     "@types/react": "^18.0.25",

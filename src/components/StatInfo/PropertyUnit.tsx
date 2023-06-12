@@ -35,7 +35,7 @@ const PropertyUnit = ({ className, prop, title }: TProps) => {
             </div>
             <div className="flex flex-auto items-center justify-start self-stretch rounded-b-md py-4 border-l-2 border-r-2 border-b-2">
                 {sortValues(prop.unique).map((k: any) => {
-                    return <div key={k[0]} className="bg-slate-300 px-2 py-1 mx-2 h-full text-center text-sm rounded-md" style={{ width: percent(k[1], total) }}>
+                    return <div key={k[0]} className="bg-slate-300 px-2 py-1 mx-2 h-full text-center text-sm rounded-md" style={{ width: percent(k[1], total), minWidth: '80px' }}>
                         {`${k[0]}: ${k[1]}`}
                     </div>;
                 })}
